@@ -1,1 +1,2 @@
-# QR-Code-Generator
+# QR-Code Generator
+### Start Server -> nodemon server.js
