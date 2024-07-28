@@ -1,6 +1,0 @@
-[build]
-  publish = "public"  # directory to publish
-  functions = "netlify/functions"  # directory for serverless functions
-
-[dev]
-  command = "npm start"
